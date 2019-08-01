@@ -10,7 +10,7 @@ Object inside a particular  folder is accessible now to everyone
         "s3:GetObject"
       ],
       "Effect": "Allow",
-      "Resource": "arn:aws:s3:::neewbuckets/*",
+      "Resource": "arn:nameofthearnofyourbucket/*",
       "Principal": "*"
     }
   ]
